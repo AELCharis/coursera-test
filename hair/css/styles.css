@@ -191,10 +191,12 @@ User Styles
 .clearfix:after { clear: both; }
 .clearfix { *zoom: 1; }
 .pullcontainer a#pull { display: none; }
-li { list-style-type: none; font-size: 14px; color: #848789; font-weight: 300;   }
+
 .phone {font-size: 15px; color: rgba(100, 194, 158, 0.8);}
 .logo-hit {  text-align: center; color: #848789; letter-spacing: 1px; font-size: 24px; font-weight: 300;   padding-top: 10px; margin: 70px 0 40px 0; font-style: italic; }
-
+div li { list-style-type: none; font-size: 14px; color: #848789; font-weight: 300; text-align: center;   text-align: justify;
+  margin: 0 auto;
+  width: 17em   }
 
 
 p.text-intro { font-size: 18px; }
