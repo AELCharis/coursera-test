@@ -194,10 +194,13 @@ User Styles
 
 .phone {font-size: 15px; color: rgba(100, 194, 158, 0.8);}
 .logo-hit {  text-align: center; color: #848789; letter-spacing: 1px; font-size: 24px; font-weight: 300;   padding-top: 10px; margin: 70px 0 40px 0; font-style: italic; }
-div li { list-style-type: none; font-size: 14px; color: #848789; font-weight: 300; text-align: center;   text-align: justify;
-  margin: 0 auto;
-  width: 17em   }
+div li { list-style-type: none; font-size: 14px; color: #848789; font-weight: 300; text-align: center;     }
 
+ .wp6 div ul li { list-style-type: none; font-size: 14px; color: #848789; font-weight: 300; text-align: center;   text-align: justify;
+  margin: 0 auto;
+  width: 18em   }
+
+ 
 
 p.text-intro { font-size: 18px; }
 a { color: #282f35; -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
